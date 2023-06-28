@@ -1,4 +1,7 @@
 <code_scheme name="YandexPracticum CodeStyle" version="173">
+<H2CodeStyleSettings version="6">
+<option name="USE_GENERAL_STYLE" value="false"/>
+</H2CodeStyleSettings>
 <JavaCodeStyleSettings>
 <option name="ANNOTATION_PARAMETER_WRAP" value="1"/>
 <option name="ALIGN_MULTILINE_RECORDS" value="false"/>
@@ -8,6 +11,7 @@
 <option name="KEEP_LINE_BREAKS" value="false"/>
 <option name="KEEP_FIRST_COLUMN_COMMENT" value="false"/>
 <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1"/>
+<option name="KEEP_BLANK_LINES_IN_CODE" value="1"/>
 <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0"/>
 <option name="CASE_STATEMENT_ON_NEW_LINE" value="false"/>
 <option name="ALIGN_MULTILINE_PARAMETERS" value="false"/>
@@ -19,7 +23,7 @@
 <option name="EXTENDS_LIST_WRAP" value="1"/>
 <option name="THROWS_LIST_WRAP" value="1"/>
 <option name="THROWS_KEYWORD_WRAP" value="1"/>
-<option name="METHOD_CALL_CHAIN_WRAP" value="2"/>
+<option name="METHOD_CALL_CHAIN_WRAP" value="1"/>
 <option name="BINARY_OPERATION_WRAP" value="1"/>
 <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true"/>
 <option name="TERNARY_OPERATION_WRAP" value="1"/>
